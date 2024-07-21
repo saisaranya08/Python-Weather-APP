@@ -15,7 +15,7 @@ This is a simple weather application built with Python using the `tkinter` libra
 - `Pillow` library
 - `tkinter` library (comes pre-installed with Python)
 
-# To view screenshot of this weather app, click below:
+# Screenshot of this web application:
 ![weatherAPP](Screenshot.png)
 
 # Customization of user interface
